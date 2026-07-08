@@ -1,5 +1,7 @@
 # Rock Paper Scissors — AI Computer Vision
 
+<video src="./gameplay.mp4" width="100%" controls autoplay loop muted></video>
+
 Play Rock Paper Scissors against an AI using your webcam. A countdown ticks
 **3 → 2 → 1 → SHOOT!**; during a short capture window your gesture is sampled
 across several frames and **majority-voted**, so one blurry frame can't spoil
