@@ -2,7 +2,7 @@
 
 
 
-https://github.com/user-attachments/assets/f60e249d-7f79-4d07-8508-304a03561b9a
+<video src="https://raw.githubusercontent.com/Devonav/rock-paper-scissors-cv/main/gameplay_web.mp4" width="100%" controls autoplay loop muted></video>
 
 
 
