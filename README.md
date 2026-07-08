@@ -1,6 +1,10 @@
 # Rock Paper Scissors — AI Computer Vision
 
-<video src="https://raw.githubusercontent.com/Devonav/rock-paper-scissors-cv/main/gameplay.mp4" width="100%" controls autoplay loop muted></video>
+
+
+https://github.com/user-attachments/assets/f60e249d-7f79-4d07-8508-304a03561b9a
+
+
 
 Play Rock Paper Scissors against an AI using your webcam. A countdown ticks
 **3 → 2 → 1 → SHOOT!**; during a short capture window your gesture is sampled
