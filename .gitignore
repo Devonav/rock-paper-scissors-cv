@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+# Downloaded model (fetch with the curl command in README)
+hand_landmarker.task

@@ -1,0 +1,5 @@
+# Pin OpenCV to the stable 4.x line — 5.0.0 is a pre-release and pairs badly
+# with current mediapipe wheels.
+opencv-python>=4.9.0,<5.0.0
+mediapipe>=0.10.9
+numpy>=1.24.0
